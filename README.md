@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sadaros
 - 👀 I’m interested in moving into a technology job. I like to read and play video games in the little free time i have :p
-- 🌱 I’m currently learning python3 and looking to go into c++ or maybe rust
+- 🌱 I’m currently learning python and Java. Next up is Go. After that... Maybe cpp?
 - 💞️ Because im still in the early stages of learning I am not currently looking to collaborate on any projects yet.
 - 📫 How to reach me via email at post@chrislearns.tech
 
